@@ -13,7 +13,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Photo" height="300" width="300" src="https://cdn.picrew.me/shareImg/org/202303/1243146_ZjF1ajMG.png">
+  <img align="right" alt="Photo" height="180" width="180" src="https://cdn.picrew.me/shareImg/org/202303/1243146_ZjF1ajMG.png">
 </div>
   
   ##
