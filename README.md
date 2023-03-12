@@ -5,6 +5,7 @@
    
 - 🌱 Hard skills:
     • React;
+    • TypeScript;
     • JavaScript;
     • JAVA;
     • Python;
