@@ -1,4 +1,14 @@
-# Olá! Me chamo Vinícius, sou estudante de Desenvolvimento de Sistemas
+### Olá! Me chamo Vinícius
+
+-   Estou procurando emprego na área de TI:
+    • Desenvolvimento de Sistemas;
+-   Hard skills:
+    • React;
+    • JavaScript;
+    • JAVA;
+    • Python;
+    • HTML;
+    • CSS;
 
 <div align="center">
   <a href="https://github.com/buttowsk">
