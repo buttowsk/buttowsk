@@ -2,15 +2,15 @@
 
 - Estou procurando emprego na área de TI:
 - 
-    • Desenvolvimento de Sistemas;
+    Desenvolvimento de Sistemas;
 - Hard skills:
 - 
-    • React;
-    • JavaScript;
-    • JAVA;
-    • Python;
-    • HTML;
-    • CSS;
+    React;
+    JavaScript;
+    JAVA;
+    Python;
+    HTML;
+    CSS;
 
 <div align="center">
   <a href="https://github.com/buttowsk">
