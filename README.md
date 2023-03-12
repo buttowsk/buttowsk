@@ -1,8 +1,10 @@
 ### Olá! Me chamo Vinícius
 
 - Estou procurando emprego na área de TI:
+- 
     • Desenvolvimento de Sistemas;
 - Hard skills:
+- 
     • React;
     • JavaScript;
     • JAVA;
