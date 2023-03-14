@@ -1,4 +1,4 @@
-### Olá! Me chamo Vinícius
+### Olá!
 
 - 🔭 Estou procurando emprego na área de TI:
     • Desenvolvimento de Sistemas;
