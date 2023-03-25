@@ -1,8 +1,6 @@
 ### Olá!
 
-- 🔭 Estou procurando emprego na área de TI:
-    • Desenvolvimento de Sistemas;
-   
+- 🔭 Estou procurando emprego na área de Desenvolvimento de Sistemas;
 - 🌱 Hard skills:
     • React;
     • TypeScript;
