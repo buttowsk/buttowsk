@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🔭 Estou procurando emprego na área de Desenvolvimento de Sistemas;
+- 🔭 Estou procurando emprego na área de Desenvolvimento Front-end;
 - 🌱 Hard skills:
     • React;
     • TypeScript;
