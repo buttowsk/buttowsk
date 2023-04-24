@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
-<h3 align="center">I am a student from Brazil and I have been focusing my studies on front-end development, with an emphasis on React and Python frameworks such as Flask and Django.</h3>
+<h3 align="center">I am a student from Brazil and i've been focusing my studies on front-end development, with an emphasis on React and Python frameworks such as Flask and Django.</h3>
 
 ##
 
