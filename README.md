@@ -3,8 +3,8 @@
 
 ##
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_radius=20" alt="buttowsk" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&locale=en&theme=gruvbox&border_radius=20" alt="buttowsk" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&layout=compact&theme=gruvbox&border_radius=12" alt="buttowsk" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&theme=gruvbox&border_radius=12" alt="buttowsk" /></p>
   
 ##
 
