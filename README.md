@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vinícius</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Vinícius</h1>
 <h3 align="center">I am a student from Brazil and i've been focusing my studies on front-end development, with an emphasis on React and Python frameworks such as Flask and Django.</h3>
 
 ##
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="buttowsk" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&locale=en&theme=gruvbox" alt="buttowsk" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_radius=20" alt="buttowsk" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&locale=en&theme=gruvbox&border_radius=20" alt="buttowsk" /></p>
   
 ##
 
