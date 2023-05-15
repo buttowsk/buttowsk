@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Vinícius</h1>
-<h3 align="center">I am a student from Brazil and i've been focusing my studies on front-end development, with an emphasis on React and Python frameworks such as Flask and Django.</h3>
+<h3 align="center">I am a student from Brazil and i've been focusing my studies on Web Development and Machine Learning.</h3>
 
 ##
 
