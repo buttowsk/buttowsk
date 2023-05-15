@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
 <p align="center">
-  <a href="https://skillicons.dev" target='_blank'>
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=python,django,flask,docker,idea,react,styledcomponents,vite,js,css,html" />
   </a>
 </p>
