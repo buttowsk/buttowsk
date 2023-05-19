@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Vinícius</h1>
+<h1 align="center">Hi, I'm Vinícius <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">I am a student from Brazil and i've been focusing my studies on Web Development and Machine Learning.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&layout=compact&theme=gruvbox&border_radius=12" alt="buttowsk" /></p>
