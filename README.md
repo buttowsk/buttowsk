@@ -14,6 +14,15 @@
 </p>
 </div>
   
+<h2 align="center">Current learning</h2>
+<div style="display: inline_block"><br>
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes,ruby,rails" />
+  </a>
+</p>
+</div>
+
   
 <h2 align="center">Contact </h2>
 
