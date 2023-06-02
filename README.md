@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes,ruby,rails" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,ruby,rails,rabbitmq" />
   </a>
 </p>
 </div>
