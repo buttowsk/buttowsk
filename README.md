@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vinícius <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">I am a student from Brazil and i've been focusing my studies on Full Stack Web Development and Machine Learning.</h3>
-
-<div style="display: flex; align-items: center; justify-content: center;"><br>
- <img height="200rem" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&layout=compact&theme=gruvbox&border_radius=12" alt="buttowsk" />
- <img height="200rem" align="center" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&theme=gruvbox&border_radius=12" alt="buttowsk" />
+<br/>
+<div align="center" >
+ <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&layout=compact&theme=gruvbox&border_radius=12" alt="buttowsk" />
+ <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&theme=gruvbox&border_radius=12" alt="buttowsk" />
 </div>
  
 <h2 align="center">Skills </h2>
