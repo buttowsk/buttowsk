@@ -2,8 +2,8 @@
 <h3 align="center">I am a student from Brazil and i've been focusing my studies on Full Stack Web Development and Machine Learning.</h3>
 
 <div style="display: flex; align-items: center; justify-content: center;"><br>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&layout=compact&theme=gruvbox&border_radius=12" alt="buttowsk" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&theme=gruvbox&border_radius=12" alt="buttowsk" />
+ <img height="200rem" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&layout=compact&theme=gruvbox&border_radius=12" alt="buttowsk" />
+ <img height="200rem" align="center" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&theme=gruvbox&border_radius=12" alt="buttowsk" />
 </div>
  
 <h2 align="center">Skills </h2>
