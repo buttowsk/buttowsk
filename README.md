@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,docker,idea,react,styledcomponents,vite,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,docker,idea,ts,js,react,tailwind,styledcomponents,css,html" />
   </a>
 </p>
 </div>
@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes,ruby,rails,rabbitmq,graphql" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,rabbitmq,graphql" />
   </a>
 </p>
 </div>
@@ -33,7 +33,7 @@
   <a href="https://discord.gg/yqfh8yha">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://www.linkedin.com/in/vinícius-nunes-3a26b9268/">
+  <a href="https://www.linkedin.com/in/vinicius00nunes/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
