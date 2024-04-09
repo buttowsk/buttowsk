@@ -2,8 +2,8 @@
 <h3 align="center">I am a student from Brazil and i've been focusing my studies on Full Stack Web Development and Machine Learning.</h3>
 <br/>
 <div align="center" >
- <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&layout=compact&theme=gruvbox&border_radius=12" alt="buttowsk" />
- <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&theme=gruvbox&border_radius=12" alt="buttowsk" />
+ <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=buttowsk&show_icons=true&layout=compact&theme=tokyonight&border_radius=12" alt="buttowsk" />
+ <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=buttowsk&show_icons=true&theme=tokyonight&include_all_commits=true" alt="buttowsk" />
 </div>
  
 <h2 align="center">Skills </h2>
@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,docker,idea,ts,js,react,tailwind,styledcomponents,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,docker,idea,ts,js,react,tailwind,styledcomponents,css,htmlh&perline=6"" />
   </a>
 </p>
 </div>
