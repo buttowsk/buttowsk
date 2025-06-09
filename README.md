@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,docker,idea,ts,js,react,tailwind,styledcomponents,css,htmlh&perline=6"" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq,graphql,aws,python,django,flask,nodejs,docker,idea,ts,js,react,tailwind,styledcomponents,css,htmlh&perline=6"" />
   </a>
 </p>
 </div>
@@ -19,7 +19,7 @@
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes,rabbitmq,graphql" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
   </a>
 </p>
 </div>
